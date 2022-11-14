@@ -1,2 +1,2 @@
-# hrt.cafe mirror (owo.rocks, hrt.astolfo.co)
+# hrt.cafe mirror (Not hosting (yet)
 ## they cant defeat all of us (clone this repo, host this repo)
